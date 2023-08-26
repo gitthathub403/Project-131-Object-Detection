@@ -20,3 +20,12 @@ canvas {
     border-radius: 20px;
 }
 
+a {
+    background-color:linear-gradient( lavenderblush 50%, lavender 50%);
+    width: 400px;
+    color: navy;
+    font-size: 23px;
+    border-radius: 28px;
+    border-color: navy;
+}
+
